@@ -1,4 +1,6 @@
-## Hi there 👋
+- 👋 Hi, I’m Urazmaxambetov Serik
+- 👀 I’m interested in Node.js
+- 💞️ I’m looking to collaborate on NestJS and Node.js projects
 
 <!--
 **urazmaxambetovserik/urazmaxambetovserik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
